@@ -28,7 +28,7 @@ The project consist in plotting random number, and the slidebar let them move fr
 
 The codes was available on the Git Hub repository, as well the serve.R and the Ui.R files:
 
-(Repository)[https://github.com/Michacr/First_App/]
+(Repository)[https://github.com/Michacr/First_App]
 
 ## Slide With Plot
 
